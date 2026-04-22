@@ -3,7 +3,7 @@
 # AMITHHHHHH
 <div>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/TRYRANDOM/TRYRANDOM/blob/output/github-snake-dark.svg)
 </div>
 
 **TRYRANDOM/TRYRANDOM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
